@@ -1,0 +1,25 @@
+# グループ名（「&」「,」を含んでも分割しない名前）。1行に1つ。STEP 04 の画面からも追加できます。
+Earth, Wind & Fire
+Ike & Tina Turner
+Simon & Garfunkel
+Daryl Hall & John Oates
+Hall & Oates
+Crosby, Stills & Nash
+Crosby, Stills, Nash & Young
+Emerson, Lake & Palmer
+Blood, Sweat & Tears
+Peter, Paul & Mary
+Kool & The Gang
+Sly & The Family Stone
+Peaches & Herb
+Ashford & Simpson
+Sam & Dave
+Captain & Tennille
+Brooklyn Bronx & Queens Band
+Chaka Khan & Rufus
+Rufus & Chaka Khan
+Kid Creole & The Coconuts
+Earth Wind & Fire
+K.C.&ザ・サンシャイン・バンド
+Wuki & Lee Foss
+James Ingram & Patti Austin

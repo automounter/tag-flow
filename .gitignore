@@ -1,0 +1,14 @@
+# Bundled Python runtime (downloaded, not source)
+runtime/
+
+# Build output
+dist/
+
+# Local settings / caches
+config.json
+__pycache__/
+*.pyc
+.DS_Store
+
+# Virtual environment
+.venv/
